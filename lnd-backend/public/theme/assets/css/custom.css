@@ -1,0 +1,72 @@
+.card {
+    box-shadow: 1px 3px 7px 1px #0000009f;
+    border-radius: 18px;
+}
+
+.card .card-description {
+    margin-bottom: 0 !important;
+}
+
+tr.parent > td {
+    font-weight: 700;
+}
+tr.child td:nth-child(1) {
+    padding-left: 25px;
+}
+.btn.btn-icon {
+    padding: 12%;
+}
+
+.btn-row {
+    padding: 0 2.5rem;
+}
+
+.sectionContainer {
+    margin-bottom: 1%;
+    border-bottom: 2px solid #00000055;
+    padding: 1% 0;
+}
+.delete-section {
+    float: right;
+}
+
+.card-body .badge,
+.list-input .badge {
+    float: right;
+    cursor: pointer;
+}
+.list-input {
+    position: fixed;
+    bottom: 5%;
+    left: 30%;
+    height: 150px;
+    width: 50%;
+    display: block;
+    padding: 1% 5% 5% 2%;
+    border-radius: 15px;
+    box-shadow: 2px 2px 5px 0px #0000009f;
+    background: #fff;
+}
+
+span.error{
+    color: red;
+    font-size: 10px;
+}
+.alert {
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    border: none !important;
+    padding: 0.75rem 1.25rem;
+    border-radius: 0.25rem;
+    box-shadow: 3px 3px 3px 3px #0000009f;
+    color: #fff;
+    z-index: 999;
+}
+
+.alert-success{
+    background: #2b8053;
+}
+.alert-danger{
+    background: #ad3c3c;
+}

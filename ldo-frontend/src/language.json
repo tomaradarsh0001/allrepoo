@@ -1,0 +1,270 @@
+{
+    "home":{
+        "english":"Home",
+        "hindi":"होम"
+    },
+    "readMore":{
+        "english": "Read More",
+        "hindi": "और पढ़ें"
+    },
+    "read":{
+        "english": "Read",
+        "hindi": "पढ़ें"
+    },
+    "getInTouch":{
+        "english": "Get In Touch",
+        "hindi": "संपर्क में रहे"
+    },
+    "officerName":{
+        "english": "Officer Name",
+        "hindi": "अधिकारी का नाम"
+    },
+    "mobile":{
+        "english": "Mobile No.",
+        "hindi": "मोबाइल नंबर"
+    },
+    "roomNo":{
+        "english": "Room No.",
+        "hindi": "कमरा संख्या"
+    },
+    "designation":{
+        "english": "Designation",
+        "hindi": "पद"
+    },
+    "searchBy":{
+        "english":"Search By",
+        "hindi":"खोजें"
+    },
+    "searchPlaceholder":{
+        "english":"Search....",
+        "hindi":"खोजें......"
+    },
+    "action":{
+        "english":"Action",
+        "hindi":"क्रिया"
+    },
+    "documantName":{
+        "english":"Document Name",
+        "hindi":"दस्तावेज़ का नाम"
+    },
+    "uploadDate":{
+        "english":"Uploaded Date",
+        "hindi":"अपलोड तिथि"
+    },
+    "useCases":{
+        "english":"Use Cases",
+        "hindi":"उदाहरण"
+    },
+    "cpoyright":{
+        "english":"Copyright",
+        "hindi":"कॉपीराइट"
+    },
+    "allRightsReserved":{
+        "english":"All Rights Reserved",
+        "hindi":"सर्वाधिकार सुरक्षित"
+    },
+    "department":{
+        "english":"Department",
+        "hindi":"विभाग"
+    },
+    "noDocFound":{
+        "english":"No documents found",
+        "hindi":"कोई दस्तावेज़ नहीं मिला"
+    },
+    "keyUpdate":{
+        "english":"Key update",
+        "hindi":"मुख्य अद्यतन"
+    },
+    "top":{
+        "english":"Top",
+        "hindi":"शीर्ष"
+    },
+    "toBookAppointment":{
+         "english":"Book Appointment",
+        "hindi":"मुलाकात करने के लिए"
+    },
+    "eHearingAppointment":{
+        "english":"e-Hearing Appointment",
+       "hindi":"ई-सुनवाई अपॉइंटमेंट"
+   },
+   "officeVisitAppointment":{
+    "english":"Office Visit Appointment",
+       "hindi":"कार्यालय दौरे की अपॉइंटमेंट"
+   },
+   "skipToMainContent":{
+    "english":"Skip to main content",
+       "hindi":"मुख्य सामग्री पर जाएं"
+   },
+   "contactUs":{
+    "english":"Contact Us",
+       "hindi":"संपर्क करें"
+   },
+   "tollFree":{
+    "english":"Tollfree No.",
+       "hindi":"टोलफ्री नं."
+   },
+    "faq":{
+        "english":"FAQ",
+       "hindi":"सामान्य प्रश्न"
+    },
+    "tollfree":{
+        "english":"Tollfree",
+        "hindi":"टोलफ्री" 
+    },
+    "email":{
+        "english":"Email",
+        "hindi":"ईमेल" 
+    },
+    "headline":{
+        "english":"Headline",
+        "hindi":"शीर्षक"
+    },
+    "title":{
+        "english":"Title",
+        "hindi":"शीर्षक"
+    },
+    "login":{
+        "english":"Log In",
+        "hindi":"लॉग इन करें"
+    },
+    "citizenCharterDoc1Title":{
+        "english":"PARTICULARS OF ORGANISATION",
+        "hindi":"संगठन का विवरण"
+    },
+    "citizenCharterDoc2Title":{
+        "english":"DUTIES OF VARIOUS OFFICIALS",
+        "hindi":"विभिन्न अधिकारियों के कर्तव्य"
+    },
+    "citizenCharterDoc3Title":{
+        "english":"DELEGATION OF POWERS",
+        "hindi":"शक्तियों का प्रत्यायोजन"
+    },
+    "citizenCharterDoc4Title":{
+        "english":"DUTIES OF VARIOUS SECTIONS",
+        "hindi":"विभिन्न अनुभागों के कर्तव्य"
+    },
+    "citizenCharterDoc5Title":{
+        "english":"DOCUMENTS HELD BY IT OR UNDER ITS CONTROL",
+        "hindi":"इसके द्वारा या इसके नियंत्रण में रखे गए दस्तावेज़"
+    },
+    "citizenCharterDoc6Title":{
+        "english":"PARTICULARS OF ARRANGEMENT",
+        "hindi":"व्यवस्था का विवरण"
+    },
+    "LdoSliderTitle1":{
+        "english":"Land and",
+        "hindi":"भूमि और"
+    },
+    "LdoSliderTitle2":{
+        "english":"Development Office",
+        "hindi":"विकास कार्यालय"
+    },
+    "NoOfPropertiesInDelhi":{
+        "english":"No. of Properties in Delhi",
+        "hindi":"दिल्ली में संपत्तियों की संख्या"
+    },
+    "NoOfResidentialProperties":{
+        "english":"No. of Residential Properties",
+        "hindi":"दिल्ली में संपत्तियों की संख्या"
+    },
+    "CommercialProperties":{
+        "english":"Commercial Properties",
+        "hindi":"व्यावसायिक संपत्तियों"
+    },
+    "Institutional":{
+        "english":"Institutional",
+        "hindi":"संस्थागत"
+    },
+    "Industrial":{
+        "english":"Industrial",
+        "hindi":"औद्योगिक"
+    },
+    "Government":{
+        "english":"Government",
+        "hindi":"सरकारी"
+    },
+    "ForeignMissions":{
+        "english":"Foreign Missions",
+        "hindi":"विदेशी मिशन"
+    },
+    "VisitorsCount":{
+        "english":"Visitors Count",
+        "hindi":"आगंतुकों की गणना"
+    },
+    "Substitution":{
+        "english":"Substitution",
+        "hindi":"प्रतिस्थापन"
+    },
+    "Mutation":{
+        "english":"Mutation",
+        "hindi":"दाखिल खारिज" 
+    },
+    "NOCs":{
+        "english":"NOCs",
+        "hindi":"एनओसी" 
+    },
+    "SliderTextHeading1":{
+        "english":"Land and Development Office",
+        "hindi":"भूमि और विकास कार्यालय"
+    },
+    "SliderTextHeading2":{
+        "english":"Central Vista",
+        "hindi":"सेंट्रल विस्टा"
+    },
+    "SliderTextHeading3":{
+        "english":"Lease-I",
+        "hindi":"पट्टा-I"
+    },
+    "SliderTextHeading4":{
+        "english":"Property Section-I",
+        "hindi":"संपत्ति खंड-I"
+    },
+    "SliderTextHeading5":{
+        "english":"New Delhi Layout Plan",
+        "hindi":"नई दिल्ली लेआउट योजना"
+    },
+    "ReadDocs":{
+        "english":"Read Docs",
+        "hindi":"दस्तावेज़ पढ़ें"
+    },
+    "ForApply":{
+        "english":"For Apply",
+        "hindi":"आवेदन के लिए"
+    },
+    "Name":{
+        "english": "Name",
+        "hindi": "नाम"
+    },
+    "MobileNumber":{
+        "english": "Mobile Number",
+        "hindi": "मोबाइल नंबर"
+    },
+    "PropertyId":{
+        "english": "Property ID",
+        "hindi": "संपत्ति आईडी"
+    },
+    "ColonyName":{
+        "english": "Colony Name",
+        "hindi": "संपत्ति आईडी"
+    },
+    "Address":{
+        "english": "Address",
+        "hindi": "पता"  
+    },
+    "Description":{
+        "english": "Description",
+        "hindi": "विवरण" 
+    },
+    "Send":{
+        "english": "Send",
+        "hindi": "भेजना"  
+    },
+    "PublicGrievances":{
+        "english": "Public Grievances",
+        "hindi": "लोक शिकायतें" 
+    },
+"PageTitle":{
+    "english": "Land and Development Office | Ministry of Home Affairs",
+    "hindi": "भूमि एवं विकास कार्यालय | गृह मंत्रालय"
+}
+}
